@@ -1,8 +1,7 @@
-layout_spectrum: 0.2287933
-typography_spectrum: 0.8847073
+layout_spectrum: 0.4868578
 color:
-  saturation: 0.7440145
-  lightness: 0.1467787
+  saturation: 0.4749103
+  lightness: 0.6338112
   brandStrength: 1
   brandColors:
     - '#FFFFFF'
@@ -10,5 +9,6 @@ color:
     - '#707070'
     - '#B28556'
     - '#CFB497'
-  rhythmicContrast: 0.8015826
+  rhythmicContrast: 1
+typography_spectrum: 0.8847073
 name: 'Angel Francisco Condom, PA'
